@@ -25,6 +25,6 @@
 <img align="left" alt="photoshop icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="premiere icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
 
----
+___
 
-<img align="left" alt="hicarlodacuyan Github Stats" src="https://github-readme.stats.vercel.app/api?hicarlodacuyan&show_icons=true&hide_border=true" />
+[![hicarlodacuyan GitHub stats](https://github-readme-stats.vercel.app/api?username=hicarlodacuyan)](https://github.com/hicarlodacuyan/github-readme-stats)
