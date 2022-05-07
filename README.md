@@ -1,10 +1,13 @@
-### Hi, there! I'm Carlo - an aspiring Web Developer. :sparkles:
+### Hi, there! I'm Carlo - an aspiring Web Developer.
 
-## I'm an IT graduate and currently making the world a better place by teaching K-12 students tech. stuff, in short, a Teacher! :thumbsup:
+## I'm an IT graduate and a Teacher, currently teaching K-12 students technology stuff.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack JS Course
 - :mortar_board: I'm aiming to finish TOP in a year and start applying for Web Developer jobs
 - :rocket: My 2022 goal is to code non-stop for the next 365 days
-- :question: Fun facts: I'm a Reddit lurker and love to watch series / animes
+- :question: Fun facts: I love reading and watching series/animes and a hardcore gamer
+<br />
+
+___
 
 ### Connect with me:
 
@@ -23,7 +26,8 @@
 <img align="left" alt="github icon" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="git icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="photoshop icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
-<img align="left" alt="premiere icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" /> <br />
+<img align="left" alt="premiere icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
+<br />
 <br />
 
 ___
