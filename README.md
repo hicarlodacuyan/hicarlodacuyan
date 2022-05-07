@@ -5,7 +5,6 @@
 - :mortar_board: I'm aiming to finish TOP in a year and start applying for Web Developer jobs
 - :rocket: My 2022 goal is to code non-stop for the next 365 days
 - :question: Fun facts: I love reading and watching series/animes and a hardcore gamer
-<br />
 
 ___
 
