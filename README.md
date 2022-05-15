@@ -1,4 +1,4 @@
-### Hi, there! I'm Carlo - an aspiring Web Developer.
+### Hi, there! I'm Carlo - a Web Developer.
 
 ## I'm an IT graduate and a Teacher, currently teaching K-12 students technology stuff.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack JS Course
