@@ -1,6 +1,6 @@
 ### Hi, there! I'm Carlo - a Web Developer.
 
-## I'm an IT graduate and a Teacher, currently teaching K-12 students technology stuff.
+## I'm an Educator, currently teaching K-12 students technology stuff.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack JS Course
 - :mortar_board: I'm aiming to finish TOP in a year and start applying for Web Developer jobs
 - :rocket: My 2022 goal is to code non-stop for the next 365 days
