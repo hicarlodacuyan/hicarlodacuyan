@@ -25,7 +25,7 @@ ___
 <img align="left" alt="webpack icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="git icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="mongodb icon" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" />
-<img align="left" alt="express icon" width="40px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
+<img align="left" alt="express icon" width="40px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
 <img align="left" alt="nodejs icon" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="photoshop icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="premiere icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
