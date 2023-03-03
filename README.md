@@ -2,7 +2,7 @@
 
 ## I'm a self-learner, currently doing the TheOdinProject and FullStackOpen curriculum.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) & [Full Stack Open](https://www.fullstackopen.com/en) full-stack courses
-- :mortar_board: I'm aiming to finish TOP & FSO in a year and start applying for Web Developer jobs
+- :mortar_board: I'm aiming to finish TOP & FSO in a year
 - :rocket: My 2023 goal is to code non-stop for the next 365 days
 - :question: Fun facts: I love reading and watching series/animes and a hardcore gamer
 
