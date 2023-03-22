@@ -2,7 +2,7 @@
 
 ### Hi, there! I'm Carlo - a Full-Stack Web Developer.
 
-## I'm a self-taught web developer that loves JavaScript. 
+## I'm a self-taught web developer who loves everything about JavaScript. 
 - :seedling: I'm currently working at [UBX PH](https://ubx.ph/) as a Junior Software Engineer
 - :mortar_board: I'm currently learning TypeScript, React Native, CI/CD, Containers, and relational databases
 - :question: Fun facts: I love reading and watching series/animes and I'm a fan of minimalism
