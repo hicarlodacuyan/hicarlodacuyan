@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=hicarlodacuyan)
+
 ### Hi, there! I'm Carlo - a Full-Stack Web Developer.
 
 ## I'm a self-learner, currently doing the TheOdinProject and FullStackOpen curriculum.
