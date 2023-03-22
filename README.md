@@ -1,13 +1,11 @@
-![](https://komarev.com/ghpvc/?username=hicarlodacuyan)
+![](https://komarev.com/ghpvc/?username=hicarlodacuyan&style=flat-square)
 
 ### Hi, there! I'm Carlo - a Full-Stack Web Developer.
 
-## I'm a self-learner, currently doing the TheOdinProject and FullStackOpen curriculum.
-- :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) & [Full Stack Open](https://www.fullstackopen.com/en) full-stack courses
-- :mortar_board: I'm aiming to finish TOP & FSO in a year
-- :rocket: My 2023 goal is to code non-stop for the next 365 days
-- :question: Fun facts: I love reading and watching series/animes and a hardcore gamer
-
+## I'm a self-taught web developer that loves JavaScript. 
+- :seedling: I'm currently working at [UBX PH](https://ubx.ph/) as a Junior Software Engineer
+- :mortar_board: I'm currently learning TypeScript, React Native, CI/CD, Containers, and relational databases
+- :question: Fun facts: I love reading and watching series/animes and I'm a fan of minimalism
 ___
 
 ### Connect with me:
