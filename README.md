@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=hicarlodacuyan&style=flat-square)
 
-### Hi, there! I'm Carlo - a Full-Stack Web Developer.
+### Hi, there! I'm Carlo - a Software Engineer.
 
-## I'm a self-taught web developer who loves everything about JavaScript. 
 - :seedling: I'm currently working as a Software Engineer
-- :mortar_board: I'm currently learning TypeScript, React Native, CI/CD, Containers, and relational databases
+- :mortar_board: I'm currently learning Angular
 - :question: Fun facts: I love reading and watching series/animes and I'm a fan of minimalism
 ___
 
